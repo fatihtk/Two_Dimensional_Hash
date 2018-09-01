@@ -1,6 +1,6 @@
 # Two_Dimensional_Hash
 
-This perl document could hep you to create the storing data with two dimensional hash table. Just put these files into one folder then change the current working directory as the current directory. After that you can just run the `Total.pl` file.
+This perl document could help you to create the storing data with two dimensional hash table. Just put these files into one folder then change the current working directory as the current directory. After that you can just run the `Total.pl` file.
 
 `PATH=<your_folder_path>:$PATH`
 
